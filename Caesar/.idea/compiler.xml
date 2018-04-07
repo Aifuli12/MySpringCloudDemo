@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Caesar" />
+        <module name="config-client" />
+        <module name="config-server" />
         <module name="eureka-client-1" />
         <module name="eureka-client-1 (1)" />
         <module name="eureka-client-1 (2)" />
@@ -15,10 +17,13 @@
         <module name="serice-feign" />
         <module name="service-feign" />
         <module name="service-ribbon" />
+        <module name="service-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Caesar" target="1.5" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="eureka-client-1" target="1.8" />
       <module name="eureka-client-1 (1)" target="1.8" />
       <module name="eureka-client-1 (2)" target="1.8" />
@@ -27,6 +32,7 @@
       <module name="serice-feign" target="1.8" />
       <module name="service-feign" target="1.8" />
       <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

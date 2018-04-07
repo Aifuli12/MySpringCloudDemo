@@ -4,6 +4,9 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 server:
   port: 8765
+feign:
+  hystrix:
+    enabled: true
 spring:
   application:
     name: service-feign

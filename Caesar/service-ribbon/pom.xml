@@ -40,6 +40,11 @@
             <artifactId>spring-cloud-starter-ribbon</artifactId>
             <version>RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-hystrix</artifactId>
+            <version>RELEASE</version>
+        </dependency>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -79,6 +84,4 @@
             </snapshots>
         </repository>
     </repositories>
-
-
 </project>
