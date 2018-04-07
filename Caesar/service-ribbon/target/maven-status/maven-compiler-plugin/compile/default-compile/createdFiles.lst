@@ -1,0 +1,3 @@
+com\aifuli\cloud\serviceribbon\service\HelloService.class
+com\aifuli\cloud\serviceribbon\ServiceRibbonApplication.class
+com\aifuli\cloud\serviceribbon\controller\HelloControler.class

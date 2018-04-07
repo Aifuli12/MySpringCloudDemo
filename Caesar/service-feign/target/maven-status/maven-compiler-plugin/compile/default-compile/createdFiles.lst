@@ -1,0 +1,3 @@
+com\aifuli\cloud\servicefeign\controller\HiController.class
+com\aifuli\cloud\servicefeign\service\SchedualServiceHi.class
+com\aifuli\cloud\servicefeign\ServiceFeignApplication.class
