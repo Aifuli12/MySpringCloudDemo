@@ -1,6 +1,5 @@
-package com.aifuli.cloud.servicefeign.controller;
+package com.aifuli.cloud.servicefeign;
 
-import com.aifuli.cloud.servicefeign.service.SchedualServiceHi;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
